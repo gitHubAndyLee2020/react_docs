@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "react_docs",
+  "name": "Documentation Application Created with React and Json Server",
   "icons": [
     {
       "src": "favicon.ico",
